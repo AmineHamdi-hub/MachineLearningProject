@@ -37,11 +37,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn streamlit
 │   ├── Auto.csv            # Dataset
 ├── notebooks
 │   ├── EDA.ipynb           # Exploratory Data Analysis
-├── src
-│   ├── preprocess.py       # Data Cleaning & Preprocessing
-│   ├── model.py            # Model Training & Evaluation
-├── reports
-│   ├── results.pdf         # Findings & Analysis
+├── main.py
 ├── README.md
 ```
 
