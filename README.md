@@ -23,7 +23,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn streamlit
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/AmineHamdi-hub/MachineLearningProject.git
    cd your-repo
    ```
 2. Run code:
@@ -36,7 +36,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn streamlit
 ├── data
 │   ├── Auto.csv            # Dataset
 ├── notebooks
-│   ├── EDA.ipynb           # Exploratory Data Analysis
+│   ├── ML_Amine_Hamdi.ipynb           # Exploratory Data Analysis
 ├── main.py
 ├── README.md
 ```
