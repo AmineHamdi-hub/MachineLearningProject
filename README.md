@@ -17,7 +17,7 @@ This project applies the **CRISP-DM (Cross Industry Standard Process for Data Mi
 Ensure you have **Python 3.8+** and the following libraries installed:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
+pip install numpy pandas matplotlib seaborn scikit-learn streamlit
 ```
 
 ## Usage
